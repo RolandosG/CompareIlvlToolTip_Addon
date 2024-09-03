@@ -1,0 +1,6 @@
+## Interface: 110002
+## Title: CompareILvlToolTip
+## Notes: Displays item level comparison in tooltips
+## Author: Rolandos Georgoulis
+
+modules/main.lua
